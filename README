@@ -12,7 +12,7 @@
 	requirements:
 
 		- python 2.7
-		- requirements:  PyGame (http://www.pygame.org/hifi.html)
+		- PyGame (http://www.pygame.org/hifi.html)
 
 
 	usage:
